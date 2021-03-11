@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/multistep-form/static/css/main.8a610ee8.chunk.css",
+    "main.js": "/multistep-form/static/js/main.20f6a632.chunk.js",
+    "main.js.map": "/multistep-form/static/js/main.20f6a632.chunk.js.map",
+    "runtime-main.js": "/multistep-form/static/js/runtime-main.0f6b36a6.js",
+    "runtime-main.js.map": "/multistep-form/static/js/runtime-main.0f6b36a6.js.map",
+    "static/js/2.0587475e.chunk.js": "/multistep-form/static/js/2.0587475e.chunk.js",
+    "static/js/2.0587475e.chunk.js.map": "/multistep-form/static/js/2.0587475e.chunk.js.map",
+    "static/js/3.4a02d9b7.chunk.js": "/multistep-form/static/js/3.4a02d9b7.chunk.js",
+    "static/js/3.4a02d9b7.chunk.js.map": "/multistep-form/static/js/3.4a02d9b7.chunk.js.map",
+    "index.html": "/multistep-form/index.html",
+    "static/css/main.8a610ee8.chunk.css.map": "/multistep-form/static/css/main.8a610ee8.chunk.css.map",
+    "static/js/2.0587475e.chunk.js.LICENSE.txt": "/multistep-form/static/js/2.0587475e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0f6b36a6.js",
+    "static/js/2.0587475e.chunk.js",
+    "static/css/main.8a610ee8.chunk.css",
+    "static/js/main.20f6a632.chunk.js"
+  ]
+}
